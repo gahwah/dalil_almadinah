@@ -1,0 +1,41 @@
+{
+  "navbar": {
+    "home": "Home",
+    "tours": "Tours",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "home": {
+    "title": "Discover the Heart of Al-Madinah",
+    "subtitle": "Book authentic guided tours with certified local experts and experience the spiritual and historical beauty of Madinah.",
+    "explore_btn": "Explore Tours",
+    "featured_tours": "Featured Tours",
+    "featured_tours_sub": "Discover our most highly rated experiences",
+    "view_all": "View All",
+    "meet_guides": "Meet Our Expert Guides",
+    "meet_guides_sub": "Certified locals passionate about sharing the history of Madinah",
+    "ai_title": "Not sure where to start?",
+    "ai_sub": "Ask our AI Assistant to build a personalized itinerary for your visit.",
+    "ai_placeholder": "e.g. I have 2 days in Madinah and love history...",
+    "ask_ai": "Ask AI"
+  },
+  "tours": {
+    "explore": "Explore Madinah",
+    "search": "Search tours, landmarks, or keywords...",
+    "filters": "Filters",
+    "loading": "Loading tours...",
+    "no_tours": "No tours found matching your search."
+  },
+  "details": {
+    "overview": "Overview",
+    "highlights": "Highlights",
+    "book_tour": "Book This Tour",
+    "available_guides": "Available Guides for this Tour"
+  },
+  "common": {
+    "hours": "Hours",
+    "view_details": "View Details"
+  }
+}
