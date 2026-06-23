@@ -1,4 +1,4 @@
-# طابة الرقمية (Taba Digital)
+#DALIL TAIBAH
 
 A full-stack tourism platform for visitors to Madinah.
 
